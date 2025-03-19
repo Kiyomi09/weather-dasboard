@@ -1,4 +1,4 @@
-# 🌦weather-dasboard
+# 🌏weather-dasboard
 
 A brief description of what this project does and who it's for.
 
@@ -13,9 +13,12 @@ A sleek and resposive weather dasboard that fetches real-time weather data using
 ✅️Responsive UI for both desktop and mobile.
 ✅️clean and modern design.
 
-#TECHNOLOGIES USED
+#🖥TECHNOLOGIES USED
 
 ✔️HTML
 ✔️CSS
 ✔️JavaScript
 ✔️OpenWeather API
+
+🌐 LIVE DEMO
+  https://weather-dasboard-five.vercel.app 
