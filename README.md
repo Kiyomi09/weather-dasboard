@@ -2,8 +2,8 @@
 
 A brief description of what this project does and who it's for.
 
-# WEATHER DASHBOARD
-A sleek and resposive weather dashboard that fetches real-time weather data using the OpenWeather API. Easily check the temperaturem humidity,and weather conditions for any city.
+# WEATHER DASBOARD
+A sleek and resposive weather dasboard that fetches real-time weather data using the OpenWeather API. Easily check the temperaturem humidity,and weather conditions for any city.
 
 #FEATURES
 
